@@ -14,11 +14,6 @@ const Testimonial = () => {
           location: "Jabalpur, Madhya Pradesh",
           image: assets.testimonial_image_2, 
           testimonial: "I thought luxury rentals were all hype until I tried Vroom. Now I’m hooked—their insurance transparency and no-hidden-fees policy are just as impressive as their fleet." 
-        },
-        { name: "Gracie Rodriguez", 
-          location: "Indore, Madhya Pradesh",
-          image: assets.testimonial_image_1, 
-          testimonial: "As a frequent traveler, I need reliability and style. EasyGetaways delivers both—whether it’s a Mercedes S-Class for client meetings or a Range Rover for weekend getaways. The app’s VIP support saves me hours." 
         }
         
     ];
